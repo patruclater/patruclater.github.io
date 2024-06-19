@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://patruclater.github.io/sitemap
+Sitemap: https://patruclater.github.io/app/sitemap
+Sitemap: https://patruclater.github.io/assets/sitemap
+Sitemap: https://patruclater.github.io/css/sitemap
+Sitemap: https://patruclater.github.io/includes/sitemap
+Sitemap: https://patruclater.github.io/item/sitemap
+Sitemap: https://patruclater.github.io/src/sitemap
